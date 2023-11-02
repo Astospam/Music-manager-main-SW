@@ -1,7 +1,7 @@
 IDENTIFICAÇÃO:
 
-NOME: Yuri Filgueira Tavares de Medeiros
-MATRÍCULA: 20220034872
+NOMES: Yuri Filgueira Tavares de Medeiros, Ilo Benevides de Miranda Cavalcanti
+MATRÍCULAS: 20220034872, 20220065108
 TURMA: 02
 
 COMPILANDO E RODANDO O PROGRAMA:
